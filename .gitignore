@@ -3,4 +3,5 @@ output
 node_modules
 *.iml
 .DS_Store
-npm-debug.log
+npm-debug.log.gradle/
+.gradle/
